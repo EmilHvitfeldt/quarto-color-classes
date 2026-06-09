@@ -2,6 +2,8 @@
 
 Add simple to use tailwindcss inspired css classes to apply your theme colors to elements.
 
+![](color-classes.webp)
+
 ## Installing
 
 ```bash
